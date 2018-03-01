@@ -4,7 +4,7 @@
     <groupId>com.mycompany.user.resource</groupId>
     <artifactId>user-resource-library</artifactId>
     <packaging>jar</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <name>user-resource-library</name>
     <url>http://maven.apache.org</url>
 </project>
