@@ -13,6 +13,7 @@ public class UserResource {
     private String firstname;
     private String surname;
     private Date dob;
+    private String email;
     private String address;
     private String postcode;
     private String city;
@@ -49,6 +50,14 @@ public class UserResource {
     public void setDob(Date dob) {
         this.dob = dob;
     }
+
+    public String getEmail() {
+		return this.email;
+	}
+
+	public void setEmail(String email) {
+		this.email = email;
+	}
 
     public String getAddress() {
         return address;
